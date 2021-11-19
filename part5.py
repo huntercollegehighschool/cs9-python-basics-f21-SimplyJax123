@@ -12,4 +12,8 @@ Hello, Ash Ketchum
 
 '''
 
-#start writing your code below
+FirstName = (input("Enter your First Name: "))
+LastName = (input("Enter your Last Name: "))
+
+print("Hello, ", FirstName, LastName)
+
